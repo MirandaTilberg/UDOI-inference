@@ -8,3 +8,4 @@ Functions are modified from the source code of the `R` package `ctmm`, version 0
 
 - [`ctmm` source code on Jan 8th, 2021](https://github.com/ctmm-initiative/ctmm/tree/4c0b7df669269087443c6907b81df6f5d6de5f13/R)
 - [current `ctmm` source code](https://github.com/ctmm-initiative/ctmm)
+- [`ctmm` on CRAN](https://CRAN.R-project.org/package=ctmm)
