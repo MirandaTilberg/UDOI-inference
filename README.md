@@ -16,5 +16,5 @@ For further documentation on using the `ctmm` package:
 - https://cran.r-project.org/web/packages/ctmm/ctmm.pdf
 - https://ctmm-initiative.github.io/ctmm/
 
-For more information on fitting AKDE home ranges:
+For more information on home range estimation with AKDE:
 - https://github.com/ecoisilva/AKDE_minireview
