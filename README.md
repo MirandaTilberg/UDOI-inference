@@ -2,7 +2,7 @@
 
 This repository contains `R` code to compute confidence intervals for the UDOI and its components, as well as to recreate the simulations and empirical case study presented in Tilberg and Dixon (2022).
 
->Tilberg, M. and Dixon, P. (2022). Statistical inference for the Utilization Distribution Overlap Index (UDOI). Methods in Ecology and Evolution, *accepted for publication*.
+>Tilberg, M. and Dixon, P. (2022). Statistical inference for the Utilization Distribution Overlap Index (UDOI). Methods in Ecology and Evolution, *in press*.
 
 
 ### Useful links
